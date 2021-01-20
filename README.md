@@ -1,0 +1,2 @@
+# CrowdGNN
+Dealing label aggregation
